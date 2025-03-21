@@ -1,16 +1,16 @@
-# Resume
+# About me ✨
 
-## Personal Information
+## Personal Information 🙋‍♂️
 **Name:** Daniel Belmonte  
 **Role:** Software Developer  
 **Experience:** 5+ years of commercial experience  
 **Specialization:** JavaScript environments (React, Angular)  
 **Additional Knowledge:** .NET  
 
-## Summary
+## Summary 📋
 I am a passionate Software Developer with over 5 years of experience in building and maintaining web applications. My expertise lies in JavaScript frameworks such as React and Angular, with a solid understanding of front-end development principles. I also have some experience working with .NET, which allows me to contribute to back-end development when needed.
 
-## Skills
+## Skills 🥇
 - **Programming Languages:** JavaScript, TypeScript, C#
 - **Frameworks & Libraries:** React, Angular, .NET
 - **Web Technologies:** HTML5, CSS3, SASS, REST APIs
@@ -19,7 +19,7 @@ I am a passionate Software Developer with over 5 years of experience in building
 - **Testing Frameworks:** Jest, Jasmine, Cypress
 - **Soft Skills:** Problem-solving, teamwork, communication, adaptability
 
-## Experience
+## Experience 📋
 ### Software Developer  
 **Plain Concepts**  (Madrid)
 *05/2021 – Present*  
@@ -43,11 +43,11 @@ I am a passionate Software Developer with over 5 years of experience in building
 *12/2017 – 09/2018*  
 - Started as an intern for a couple of months and being under a Junior contract after finishing the training period.
 
-## Education
+## Education 👨‍🎓
 **Bachelor** in Multimedia Engineering  
 **Alicante**  
 *2012 – 2017*
 
-## Contact
+## Contact 🗣️
 - ✉️ danibeam97@gmail.com 
 - 👔 https://www.linkedin.com/in/daniel-belmonte/
